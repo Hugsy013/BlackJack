@@ -1,0 +1,20 @@
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.AssemblyReference.cache
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Form1.resources
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.cache
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\FF\source\repos\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\obj\Debug\BlackJackGame.csproj.AssemblyReference.cache
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\obj\Debug\BlackJackGame.Form1.resources
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.cache
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\obj\Debug\BlackJackGame.exe
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\obj\Debug\BlackJackGame.pdb
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\bin\Debug\BlackJackGame.exe
+D:\Users\rodri\Desktop\Faculdade\ADS\2° Semeste\03 - Quarta-feira\Blackjack Uni9\Blackjack-jogo-21-main\BlackJackGame\bin\Debug\BlackJackGame.pdb

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|d:\\users\\rodri\\desktop\\faculdade\\ads\\2\u00B0 semeste\\03 - quarta-feira\\blackjack uni9\\blackjack-jogo-21-main\\blackjackgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|solutionrelative:blackjackgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\blackjackgame\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|solutionrelative:blackjackgame\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\blackjackgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|solutionrelative:blackjackgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\blackjackgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B1208-50C6-4F6E-8DF8-6A761E260929}|BlackJackGame\\BlackJackGame.csproj|solutionrelative:blackjackgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BlackJackGame\\Form1.Designer.cs",
+              "ToolTip": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Form1.Designer.cs",
+              "RelativeToolTip": "BlackJackGame\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:14:58.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "BlackJackGame\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "BlackJackGame\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:34:11.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Form1.cs",
+              "RelativeDocumentMoniker": "BlackJackGame\\Form1.cs",
+              "ToolTip": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Form1.cs [Design]",
+              "RelativeToolTip": "BlackJackGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:01:31.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Form1.cs",
+              "RelativeDocumentMoniker": "BlackJackGame\\Form1.cs",
+              "ToolTip": "D:\\Users\\rodri\\Desktop\\Faculdade\\ADS\\2\u00B0 Semeste\\03 - Quarta-feira\\Blackjack Uni9\\Blackjack-jogo-21-main\\BlackJackGame\\Form1.cs",
+              "RelativeToolTip": "BlackJackGame\\Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADgv70AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:02:48.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
